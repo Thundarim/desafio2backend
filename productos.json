@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "perro",
+    "description": "ta' bonito",
+    "price": 150,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 30
+  },
+  {
+    "id": 2,
+    "title": "Zapato",
+    "description": "De la mejor talla",
+    "price": 250,
+    "thumbnail": "Sin imagen",
+    "code": "abc124",
+    "stock": 30
+  }
+]
